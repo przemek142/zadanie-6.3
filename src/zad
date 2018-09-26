@@ -1,0 +1,16 @@
+zadanie-java-18
+Link do zadania
+Link do rozwiązania
+Stwórz program składający się z dwóch klas:
+•	ArrayComparator – klasa posiadająca tylko jedną metodę
+compare(), która jako parametery przyjmuje dwie tablice
+(typu prostego wybranego przez Ciebie) i zwraca wartość true
+jeśli tablice te są identyczne lub false jeśli się różnią.
+Do implementacji metody compare wykorzystaj wyłącznie pętle
+i instrukcje sterujące.
+•	ArrayTest – utwórz w niej dwie tablice i przetestuj
+działanie zdefiniowanej metody compare()
+
+*Dodatkowe, nieobowiązkowe:
+W klasie ArrayComparator dodaj przeciążoną metodę compare,
+która porównuje tablice dwuwymiarowe i przetestuj jej działanie w drugiej klasie.
