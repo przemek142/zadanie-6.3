@@ -27,10 +27,8 @@ public class ArrayComparator<T> {
                         if (array1[i][j] != array2[i][j]) {
                             return false;
                         }
-                        j++;
                     }
 
-                    i++;
                 }
             }
             return true;
